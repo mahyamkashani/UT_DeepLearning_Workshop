@@ -10,7 +10,7 @@ Instructors:
 
 Sajjad Mozaffari (smozaffari72@gmail.com)
 
-Mohammad Mahdi Derakhshani
+Mohammad Mahdi Derakhshani (m2.derakhshani1993@gmail.com)
 
 Deep Learning Summer School Repository(University of Tehran):
 https://github.com/mohammad-py/UTDLSS2017
